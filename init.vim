@@ -57,8 +57,11 @@ Plug 'rhysd/vim-grammarous'
 Plug 'cespare/vim-toml'
 Plug 'bfredl/nvim-miniyank'
 
+" Basims Plugins
+Plug 'scrooloose/nerdtree'
+Plug 'erezsh/erezvim'
 
-" Other languages
+e Other languages
 Plug 'myint/clang-complete', { 'for': ['c', 'cpp'] }
 " Plug 'rhysd/vim-crystal', { 'for': 'crystal' }
 " Plug 'zchee/deoplete-go', { 'for': 'go', 'do': 'make'}
